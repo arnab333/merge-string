@@ -22,6 +22,8 @@ function mergeString(...classes) {
   return str;
 }
 
-module.exports = { mergeString };
+module.exports = mergeString;
+
+export { mergeString };
 
 export default mergeString;

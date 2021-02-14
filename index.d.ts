@@ -6,4 +6,6 @@ export interface ClassDictionary {
 
 declare const mergeString: (...classes: ClassValue[]) => string;
 
+export { mergeString };
+
 export default mergeString;
