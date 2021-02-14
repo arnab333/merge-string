@@ -1,4 +1,4 @@
-export const mergeString = (...classes) => {
+const mergeString = (...classes) => {
   let str = '';
 
   if (classes && classes.length > 0) {
