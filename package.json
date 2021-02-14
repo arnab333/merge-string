@@ -1,0 +1,22 @@
+{
+  "name": "merge-string",
+  "version": "1.0.0",
+  "description": "A function to merge multiple strings conditionally. You can pass any string or pass any object conditionally to merge them.",
+  "main": "index.js",
+  "keywords": [
+    "merge",
+    "merge string",
+    "classnames",
+    "class list",
+    "classes",
+    "join classes"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Arnab Debnath"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arnab333/merge-string.git"
+  }
+}
