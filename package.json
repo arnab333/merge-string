@@ -1,6 +1,6 @@
 {
   "name": "merge-string-conditionally",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A function to merge multiple strings conditionally. You can pass any string or pass any object conditionally to merge them.",
   "main": "index.js",
   "keywords": [
