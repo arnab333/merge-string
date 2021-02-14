@@ -1,6 +1,6 @@
 {
-  "name": "merge-string",
-  "version": "1.0.0",
+  "name": "merge-string-conditionally",
+  "version": "1.0.1",
   "description": "A function to merge multiple strings conditionally. You can pass any string or pass any object conditionally to merge them.",
   "main": "index.js",
   "keywords": [
@@ -17,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnab333/merge-string.git"
+    "url": "https://github.com/arnab333/merge-string-conditionally.git"
   }
 }

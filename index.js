@@ -1,4 +1,4 @@
-module.exports = function mergeClassNames(...classes) {
+module.exports = function mergeString(...classes) {
   let str = '';
 
   if (classes && classes.length > 0) {
