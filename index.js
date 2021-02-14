@@ -1,4 +1,4 @@
-function mergeString(...classes) {
+const mergeString = (...classes) => {
   let str = '';
 
   if (classes && classes.length > 0) {
@@ -20,7 +20,7 @@ function mergeString(...classes) {
   }
 
   return str;
-}
+};
 
 module.exports = mergeString;
 
