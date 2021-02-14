@@ -22,8 +22,10 @@ const mergeString = (...classes) => {
   return str;
 };
 
-module.exports = mergeString;
+module.exports = {
+  mergeString,
+};
 
-export { mergeString };
+export const mergeString;
 
 export default mergeString;
