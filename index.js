@@ -1,4 +1,4 @@
-const mergeString = (...classes) => {
+module.exports = function mergeString(...classes) {
   let str = '';
 
   if (classes && classes.length > 0) {
@@ -20,9 +20,4 @@ const mergeString = (...classes) => {
   }
 
   return str;
-};
-
-module.exports = {
-  mergeString,
-  default: mergeString,
 };
