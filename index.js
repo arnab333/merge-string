@@ -24,6 +24,5 @@ const mergeString = (...classes) => {
 
 module.exports = {
   mergeString,
+  default: mergeString,
 };
-
-export default mergeString;
