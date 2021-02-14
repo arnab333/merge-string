@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/merge-string-conditionally)](https://www.npmjs.com/package/merge-string-conditionally)
 
-[![downloads](https://img.shields.io/jsdelivr/npm/hm/merge-string-conditionally?color=%230B7CBC&label=downloads)](https://www.npmjs.com/package/merge-string-conditionally)
+[![downloads](https://img.shields.io/jsdelivr/npm/hy/merge-string-conditionally?color=%230B7CBC&label=downloads)](https://www.npmjs.com/package/merge-string-conditionally)
 
 Simple package for merging multiple strings where some of the strings are conditionally applied. It can be used to merge multiple class names. A fixed string can be used as well as conditional strings through object(s)
 
